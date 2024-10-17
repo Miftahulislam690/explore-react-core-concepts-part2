@@ -1,0 +1,6 @@
+.box {
+    padding: 16px;
+    margin: 16px;
+    border: 2px solid skyblue;
+    border-radius: 16px;
+}
